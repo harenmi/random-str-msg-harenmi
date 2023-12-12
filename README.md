@@ -16,7 +16,7 @@ npm install -g random-str-msg-harenmi
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg](https://github.com/harenmi/random-str-msg-harenmi)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg-harenmi](https://github.com/harenmi/random-str-msg-harenmi)
 
 # License
 
